@@ -1,5 +1,3 @@
-### Olá! 👋
-
 <div>
   <a href="https://github.com/mariaclaudiapio">
   <img height="176em" src="https://github-readme-stats.vercel.app/api?username=mariaclaudiapio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
